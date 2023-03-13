@@ -17,7 +17,7 @@ These versions have recieved the latest security update for undetection of antic
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 0.1.x   | :x:   Known bugs   |
+| 0.1.x   | :x:                |
 
 - Reporting a Vulnerability
 In order to report a vulnerability, go to the issues tab and open a issue. I'll get to it as soon as I see it.
