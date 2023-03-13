@@ -14,6 +14,7 @@ When the version has a green check (✅) it's save to use and no reported bugs o
 
 - Supported Versions
 These versions have recieved the latest security update for undetection of anticheats. All bugs should also be fixed.
+
 | Version | Supported          |
 | ------- | ------------------ |
 | 0.1.x   | :x:   Known bugs   |
